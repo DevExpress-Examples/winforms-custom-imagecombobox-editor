@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyPopupContainerEdit.cs](./CS/DXSample/MyPopupContainerEdit.cs) (VB: [MyPopupContainerEdit.vb](./VB/DXSample/MyPopupContainerEdit.vb))
+<!-- default file list end -->
 # How to implement a custom ImageComboBox editor that allows entering custom values
 
 
