@@ -6,7 +6,7 @@
 
 # WinForms Data Editors - Create a custom Image Poupup Container that allows entering custom values
 
-This example createa a custom PopupContainerEdit with the dropdown [ImageListBoxControl](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.ImageListBoxControl). The custom edtitor allows you to enter a custom value in the edit box.
+This example creates a custom PopupContainerEdit with the drop-down [ImageListBoxControl](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.ImageListBoxControl). The custom editor allows you to enter a custom value in the edit box.
 
 
 ## Files to Review
